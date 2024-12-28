@@ -1,0 +1,185 @@
+// course_catalog.txt
+Computer Science and Engineering Department - Course Catalog 2024
+
+Core Courses:
+1. CS101: Introduction to Computer Programming
+Duration: 1 semester
+Credits: 4
+Description: Fundamental concepts of programming using Python. Topics include variables, data types, control structures, functions, and basic object-oriented programming.
+Prerequisites: None
+Learning Outcomes:
+- Write basic Python programs
+- Understand programming fundamentals
+- Implement simple algorithms
+
+2. CS201: Data Structures and Algorithms
+Duration: 1 semester
+Credits: 4
+Description: Implementation and analysis of fundamental data structures and algorithms. Topics include arrays, linked lists, trees, graphs, sorting, and searching algorithms.
+Prerequisites: CS101
+Learning Outcomes:
+- Implement basic data structures
+- Analyze algorithm complexity
+- Design efficient solutions
+
+3. CS301: Database Management Systems
+Duration: 1 semester
+Credits: 4
+Description: Fundamentals of database design, development, and management. Covers SQL, normalization, transaction management, and database security.
+Prerequisites: CS201
+Learning Outcomes:
+- Design normalized databases
+- Write complex SQL queries
+- Implement database applications
+
+// faculty_profiles.txt
+CSE Department Faculty Profiles
+
+Dr. Sarah Johnson
+Position: Head of Department
+Specialization: Artificial Intelligence and Machine Learning
+Office Hours: Monday and Wednesday, 2:00 PM - 4:00 PM
+Email: sarah.johnson@university.edu
+Research Interests:
+- Deep Learning Applications
+- Natural Language Processing
+- Computer Vision
+Recent Publications:
+1. "Advanced Neural Networks in Image Recognition" (2023)
+2. "Transformer Models for Text Analysis" (2024)
+
+Prof. Michael Chen
+Position: Associate Professor
+Specialization: Computer Networks and Security
+Office Hours: Tuesday and Thursday, 10:00 AM - 12:00 PM
+Email: michael.chen@university.edu
+Research Interests:
+- Network Security
+- Cybersecurity
+- Cloud Computing
+Recent Publications:
+1. "Secure Network Protocols" (2023)
+2. "Cloud Security Frameworks" (2024)
+
+// lab_manual.txt
+Computer Programming Lab - Manual and Guidelines
+
+Lab Rules and Regulations:
+1. Students must arrive on time for lab sessions
+2. Maintain silence in the laboratory
+3. No food or drinks allowed
+4. Save your work regularly
+5. Report any hardware/software issues to lab assistants
+
+Python Programming Lab Exercises:
+
+Exercise 1: Basic Python Programs
+1. Write a program to find factorial of a number
+2. Implement a calculator with basic operations
+3. Create a program for student grade calculation
+
+Exercise 2: Data Structures Implementation
+1. Implement a linked list with basic operations
+2. Create a binary search tree
+3. Develop a graph representation
+
+Exercise 3: Database Connectivity
+1. Create a student database using SQLite
+2. Implement CRUD operations
+3. Develop a simple query interface
+
+// department_policies.txt
+CSE Department - Academic Policies and Guidelines
+
+Attendance Policy:
+- Minimum 75% attendance required for each course
+- Medical certificates must be submitted within 3 days
+- Long leave requires prior permission from HOD
+
+Assessment Guidelines:
+1. Continuous Assessment (50%)
+   - Quiz: 10%
+   - Assignments: 15%
+   - Mid-term Exam: 25%
+
+2. End Semester Examination (50%)
+   - Written Exam: 40%
+   - Lab Exam: 10%
+
+Project Guidelines:
+- Teams of 3-4 students
+- Project proposal submission deadline: Week 5
+- Regular progress reviews
+- Final presentation in Week 15
+
+// placement_information.txt
+CSE Department - Placement Information 2023-24
+
+Recent Placement Statistics:
+- Total Students: 120
+- Students Placed: 108
+- Highest Package: $120,000
+- Average Package: $75,000
+- Companies Visited: 45
+
+Top Recruiting Companies:
+1. Google
+   - Positions: Software Engineer
+   - Average Package: $115,000
+   - Skills Required: DSA, System Design
+
+2. Microsoft
+   - Positions: Software Development Engineer
+   - Average Package: $105,000
+   - Skills Required: Full Stack Development
+
+3. Amazon
+   - Positions: SDE-1
+   - Average Package: $95,000
+   - Skills Required: Cloud Computing, DSA
+
+Preparation Guidelines:
+1. Technical Skills
+   - Strong DSA fundamentals
+   - Programming languages: Java/Python/C++
+   - Database management
+   - Web technologies
+
+2. Soft Skills
+   - Communication
+   - Team collaboration
+   - Problem-solving
+   - Time management
+
+// research_projects.txt
+Ongoing Research Projects - CSE Department
+
+1. Project: AI-Based Healthcare System
+Principal Investigator: Dr. Sarah Johnson
+Duration: 2023-2025
+Funding: $500,000
+Description: Development of AI models for early disease detection and diagnosis using machine learning and deep learning approaches.
+Current Progress:
+- Data collection phase completed
+- Initial model training in progress
+- First paper submitted to IEEE
+
+2. Project: Secure Cloud Computing Framework
+Principal Investigator: Prof. Michael Chen
+Duration: 2024-2026
+Funding: $350,000
+Description: Development of secure cloud computing framework for sensitive data processing in healthcare and finance sectors.
+Current Progress:
+- Architecture design completed
+- Initial security protocols implemented
+- Testing phase beginning
+
+3. Project: Smart City IoT Network
+Principal Investigator: Dr. Robert Wilson
+Duration: 2024-2025
+Funding: $250,000
+Description: Implementation of IoT network for smart city applications including traffic management and waste management.
+Current Progress:
+- Sensor network deployed
+- Data collection started
+- Initial analysis ongoing
